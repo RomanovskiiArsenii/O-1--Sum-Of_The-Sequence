@@ -2,13 +2,12 @@
 
 We need to calculate the sum of all numbers through 1 to N inclusively
 
-As we can see for number 6: 
+As we can see for number 6:   
+1+2+3+4+5+6 = 21  
+Equal to:  
+(1+6)+(2+5)+(3+4)= 7×3 = 21  
 
-1+2+3+4+5+6 = 21
-Equal to:
-(1+6)+(2+5)+(3+4)= 7×3 = 21
-
-And for number 7:
+And for number 7:  
 1+2+3+4+5+6+7 = 28   
 (1+6)+(2+5)+(3+4)+7 = 7*4 = 28
 
